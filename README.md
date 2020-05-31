@@ -1,3 +1,5 @@
+[DEMO LINK]('https://vitaliybondarenko1982.github.io/js-exchange-rate-calculator/');
+
 ## Exchange Rate
 
 Select countries to get the exchange rate for a specific amount
